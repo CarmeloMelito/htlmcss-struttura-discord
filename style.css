@@ -59,7 +59,7 @@ main {
 
 .white-container {
     background-color: white;
-    height: 200px;
+    height: 400px;
     display: flex;
     justify-content: center;
     padding: 20px;
@@ -83,11 +83,32 @@ main {
 
 .gray-container {
     background-color: #d3d3d3;
-    height: 160px;
+    height: 400px;
     display: flex;
     justify-content: center;
     padding: 20px;
 }
+
+.gray-container-1 {
+    background-color: #d3d3d3;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.gray-container-item {
+    background-color: #228b22;
+    height: 160px;
+    width: 210px;
+    margin: 10px;
+
+}
+
+
+
 
 .black-container {
     background-color: #23272a;
